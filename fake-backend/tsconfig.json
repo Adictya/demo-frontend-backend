@@ -1,0 +1,6 @@
+{
+  "compilerOptions": {
+    "lib": ["node"],
+    "allowJs": true
+  }
+}
